@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+
+/* UTILITY ASSESTS */
+.d-flex {
+  display: flex;
+}
+.ff-row {
+  flex-flow: row nowrap;
+}
+.ff-col {
+  flex-flow: column nowrap;
+}
+.jc-aro {
+  justify-content: space-around;
+}
+.jc-bet {
+  justify-content: space-between;
+}
+.ai-cen {
+  align-items: center;
+}
